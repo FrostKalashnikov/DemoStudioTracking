@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.vivemarscamtrack-20979098.unrealeditor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "F:/Projetos_Unreal/EstudioCenaVirtual/Unreal/ViveMarsCamtrack/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "ViveMarsCamtrack-20979098 [UE Editor]"
+				}
+			}
+		}
+	]
+}
